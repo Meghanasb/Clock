@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="additional_settings">
+    <title>Additional Settings</title>
+    <body>
+        <p><b>To view settings for Clock:</b><ul id="ul_xyb_sr4_bvb">
+                <li>Click on the Settings icon <image href="images/settings.png" width="30"
+                        height="30" id="image_z4v_zr4_bvb">
+                        <alt>Settings icon</alt>
+                    </image> on the left navigation bar.</li>
+            </ul></p>
+        <p><b>Account Settings:</b></p>
+        <ul id="ul_skn_2s4_bvb">
+            <li>Click on Manage to manage your account.</li>
+            <li>Click on Sign out to sign out of your account.</li>
+        </ul>
+        <p><b>Focus Session Settings</b></p>
+        <p>Here you can find settings for:</p>
+        <ul id="ul_oqx_qx4_bvb">
+            <li>Focus period.</li>
+            <li>Break period.</li>
+            <li>Session sound.</li>
+            <li>Spotify.</li>
+            <li>To do.</li>
+        </ul>
+        <p><b>General settings:</b></p>
+        <p>Here, you can find settings for :</p>
+        <ul id="ul_twl_yx4_bvb">
+            <li>App Theme</li>
+            <li>Notifications</li>
+            <li>Privacy</li>
+        </ul>
+        <p>Click on "<i>Send Feedback</i>" to send feedback about the Clock application.</p>
+    </body>
+</topic>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="spotify">
+    <title>Spotify</title>
+    <body>
+        <p>Spotify is a digital music, podcast, and video service that gives you access to millions
+            of songs and other content from creators all over the world.</p>
+        <p>You can use the Spotify app to enhance your focus sessions with music and podcasts. </p>
+        <p>Click on the <b>Install Spotify</b> Button if you wish to do so.</p>
+        <p>Click the See more <image href="images/See%20more.png" width="20" height="20"
+                id="image_urk_sgp_bvb">
+                <alt>See more</alt>
+            </image> icon in order to :<ul id="ul_ls5_nmj_bvb">
+                <li>Hide Spotify</li>
+                <li>View/Change Settings for Spotify</li>
+            </ul></p>
+    </body>
+</topic>

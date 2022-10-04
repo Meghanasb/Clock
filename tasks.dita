@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="tasks">
+    <title>Tasks</title>
+    <body>
+        <p>This section allows you to add tasks and assign them to your focus sessions throughout
+            the day.</p>
+        <p><b>To add a task:</b><ol id="ol_uth_gq3_bvb">
+                <li>Click the Add <image href="images/plus.png" width="25" height="25"
+                        id="image_g1z_kgp_bvb">
+                        <alt>Add button</alt>
+                    </image> button in the "Tasks" Section.</li>
+                <li>Enter the task title and hit the enter button.</li>
+                <li>Your task is saved.</li>
+                <li>You can save upto a couple of tasks and select/deselect them for your
+                    session.</li>
+                <li>Click the See more <image href="images/See%20more.png" width="20" height="20"
+                        id="image_mzt_ngp_bvb">
+                        <alt>See more</alt>
+                    </image>icon in order to :<ul id="ul_phv_wlj_bvb">
+                        <li> Expand task list.</li>
+                        <li>Collapse task list.</li>
+                        <li>Choose a task list. <p>From the existing task lists.</p></li>
+                    </ul></li>
+            </ol></p>
+    </body>
+</topic>

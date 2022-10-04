@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="ready_set_focus">
+    <title>Ready, Set, Focus !</title>
+    <body>
+        <p><b>To enable Focus Sessions:</b></p>
+        <ol id="ol_vtt_wh3_bvb">
+            <li>Click on the Focus Sessions <image href="images/Focus%20sessions.png" width="25"
+                    height="25" id="image_o2c_j2p_bvb">
+                    <alt>Focus sessions image</alt>
+                </image> icon on the left navigation toolbar</li>
+            <li>Click "Get Started".</li>
+            <li>Under the<b> "Ready, Set, Focus"</b> section, Enter the number of minutes you have
+                at your disposal.</li>
+            <li>If you do not want breaks, tick the checkbox next to "Skip Breaks".</li>
+            <li>Click on "Start Focus Section".</li>
+            <li>Your focus session begins. </li>
+            <li>The countdown time is tracked and at the end of it, you will receive a reminder
+                asking you to take a 5 minute break from work.</li>
+        </ol>
+        <p><b>Customize break period and focus period:</b></p>
+        <ol id="ol_ivt_vj3_bvb">
+            <li>Click the "See More" <image href="images/See%20more.png" width="25" height="25"
+                    id="image_syf_42p_bvb">
+                    <alt>See more icon</alt>
+                </image> icon in the same section.</li>
+            <li>Click "View Settings".</li>
+            <li>Click on "Focus Periods". </li>
+            <li>Select the desired duration of Focus and break periods.</li>
+            <li>The changes made in this setting will be reflected when you return to the <b>"Ready,
+                    Set, Focus"</b> section.</li>
+        </ol>
+    </body>
+</topic>

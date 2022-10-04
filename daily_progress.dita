@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="daily_progress">
+    <title>Daily Progress</title>
+    <body>
+        <p>This section lets you know how much of your goal has been achieved.</p>
+        <p><b>To edit your daily goals:</b><ol id="ol_b1y_f43_bvb">
+                <li>Click the edit <image href="images/edit.png" width="25" height="25"
+                        id="image_l53_xfp_bvb">
+                        <alt>Edit goal</alt>
+                    </image> icon in the "Daily Progress" Section.</li>
+                <li>Set your daily goal duration.</li>
+                <li>Set the time of the day at which you want to clear records of daily progress and
+                    completed tasks everyday.</li>
+                <li>Tick the checkbox next to "Include weekends in streaks" if you want to include
+                    weekends as well.</li>
+                <li>Click Save.</li>
+            </ol></p>
+    </body>
+</topic>

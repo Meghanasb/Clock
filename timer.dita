@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="timer">
+    <title>Timer</title>
+    <body>
+        <p>A timer is a specialized type of clock used for measuring specific time intervals. </p>
+        <bodydiv/>
+        <p>Click on the  <image href="images/timer.png" width="20" height="20"
+                id="image_uhw_vgp_bvb">
+                <alt>Timer</alt>
+            </image> icon on the left navigation toolbar to open the Timer section.</p>
+        <p>1 minute, 3 minute, 5 minute, 10 minute timers would be present by default. These Timers
+            can be started, reset and edited to customize user needs.</p>
+        <ul id="ul_ybf_4pj_bvb">
+            <li>Click the play icon <image href="images/play.png" width="20" height="20"
+                    id="image_j1b_rpj_bvb">
+                    <alt>Play icon</alt>
+                </image>to start the timer of your choice.</li>
+            <li>Click the Reset icon <image href="images/reset.png" width="20" height="20"
+                    id="image_vqf_vpj_bvb">
+                    <alt>Reset icon</alt>
+                </image>to reset the timer.</li>
+            <li>Click the Expand icon <image href="images/expand.png" width="20" height="20"
+                    id="image_g5j_gqj_bvb">
+                    <alt>expand icon</alt>
+                </image> to expand the timer view. </li>
+            <li>Click the Restore icon <image href="images/restore.png" width="20" height="20"
+                    id="image_o25_hqj_bvb">
+                    <alt>Restore icon</alt>
+                </image> to minimize the expanded view.</li>
+            <li>Click the Keep on Top <image href="images/Keep%20on%20top.png" width="20"
+                    height="20" id="image_l4d_jqj_bvb">
+                    <alt>Keep on top icon</alt>
+                </image>icon to pin the timer to the top of the screen.</li>
+            <li>In order to edit any of the timers, right click your mouse button over the timer,
+                select "Edit" <image href="images/edit.png" width="20" height="20"
+                    id="image_esp_3rj_bvb">
+                    <alt>edit icon</alt>
+                </image> and edit it as required.</li>
+            <li>In order to delete a timer,  right click your mouse button over the timer, select
+                "Delete" <image href="images/delete.png" width="20" height="20"
+                    id="image_x51_krj_bvb">
+                    <alt>delete</alt>
+                </image>. </li>
+            <li>In order to add a new timer, click the "Add timer" icon <image
+                    href="images/plus.png" width="20" height="20" id="image_vjh_lrj_bvb">
+                    <alt>Add icon</alt>
+                </image> on the bottom right of the window.</li>
+        </ul>
+    </body>
+</topic>

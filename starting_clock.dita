@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="starting_clock">
+    <title>Starting Clock</title>
+    <body>
+        <p>Windows has its own in built app "Clock" for setting alarms. </p>
+        <p><b>To start Clock:</b></p>
+        <ol id="ol_z1h_rf3_bvb">
+            <li>Click the Start Menu.</li>
+            <li>Hit the Search button and type "Clock".</li>
+            <li>Open the Clock Application.</li>
+        </ol>
+    </body>
+</topic>

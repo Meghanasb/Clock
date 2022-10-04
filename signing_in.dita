@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="signing_in">
+    <title>Signing In</title>
+    <body>
+        <p>You can also choose to sign in with your work/personal mail ID in order to sync your
+            alarms with your work schedule.</p>
+        <ol id="ol_a5k_mg3_bvb">
+            <li>Click on the Sign in <image href="images/sign%20in.png" width="25" height="25"
+                    id="image_ivf_c2p_bvb">
+                    <alt>Sign in Image</alt>
+                </image> icon on the left navigation bar.</li>
+            <li>Sign in using your Microsoft Work/School account.</li>
+        </ol>
+    </body>
+</topic>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="world_clock">
+    <title>World Clock</title>
+    <body>
+        <p>You can use the World Clock to view the current time for various cities around the
+            world.</p>
+        <p><b>To view World Clock:</b></p>
+        <ol>
+            <li>Click on the World clock icon <image href="images/world%20clock.png" width="30"
+                    height="30" id="image_vc3_hj4_bvb">
+                    <alt>World Clock icon</alt>
+                </image> on the left navigation bar.</li>
+            <li>Here, you can view the local time corresponding to your region.</li>
+            <li>Click on the Add icon <image href="images/plus.png" width="30" height="30"
+                    id="image_ut5_bk4_bvb">
+                    <alt>Add city</alt>
+                </image> to add more cities and view their respective timezones.</li>
+            <li>Enter the city name and click the Add button.</li>
+            <li>You can now view the current time zone of the selected city.</li>
+            <li>Click on the Edit button <image href="images/edit.png" width="30" height="30"
+                    id="image_mgq_y44_bvb">
+                    <alt>Edit city</alt>
+                </image>to delete any of the added cities.</li>
+            <li>Click the Done button <image href="images/done.png" width="30" height="30"
+                    id="image_i1d_bp4_bvb">
+                    <alt>Done</alt>
+                </image> once done with changes.</li>
+            <li>Click on the compare icon <image href="images/compare.png" width="30" height="30"
+                    id="image_qtv_yq4_bvb">
+                    <alt>Compare</alt>
+                </image> to compare the timezones of various cities in your list.</li>
+        </ol>
+    </body>
+</topic>

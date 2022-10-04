@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="alarm">
+    <title>Alarm</title>
+    <body>
+        <p>Using Clock, you can set an alarm to remind you of important tasks throughout the
+            week.</p>
+        <p><b>To set an alarm:</b><ul id="ul_ax1_4wn_bvb">
+                <li>Click on the Alarm icon <image href="images/alarms.png" width="20" height="20"
+                        id="image_njf_twn_bvb">
+                        <alt>Alarm icon</alt>
+                    </image> on the left navigation toolbar.</li>
+                <li>Click the Add button <image href="images/plus.png" width="20" height="20"
+                        id="image_jbn_vwn_bvb">
+                        <alt>Add button</alt>
+                    </image> to add a new alarm.<p><image href="images/Set%20an%20alarm.png"
+                            width="200" height="400" id="image_itf_hhp_bvb">
+                            <alt>Set alarm</alt>
+                        </image></p></li>
+            </ul></p>
+        <ul id="ul_vbz_3yn_bvb">
+            <li>Set the alarm time.</li>
+            <li>Enter a name for the alarm.</li>
+            <li>Tick the checkbox next to "Repeat Alarm", if you wish to Repeat the alarm on the
+                specified day and time in the upcoming weeks.</li>
+            <li>Select the days of the week on which you want the alarm to ring.</li>
+            <li>Select your choice of alarm ringtone from the dropdown list.</li>
+            <li>Select the alarm snooze time from the dropdown.</li>
+            <li>Click the Save button to save the alarm. </li>
+        </ul>
+        <p><b>To edit alarms:</b></p>
+        <ul id="ul_fcc_nd4_bvb">
+            <li>Click on the Edit icon <image href="images/edit.png" width="20" height="20" id="image_pp4_4d4_bvb">
+                    <alt>Edit alarm</alt>
+                </image> to edit alarms.</li>
+            <li>Click on the alarm you wish to edit and make changes.</li>
+        </ul>
+        <p><b>To delete alarms:</b></p>
+        <ul id="ul_y3f_rd4_bvb">
+            <li>Hover the mouse over the alarm card to be deleted and right click.</li>
+            <li>Click on "Delete" <image href="images/delete.png" width="20" height="20" id="image_fhl_xd4_bvb">
+                    <alt>Delete alarm</alt>
+                </image>.</li>
+            <li>Alternatively, you can click the Edit icon <image href="images/edit.png" width="20" height="20" id="image_bds_b24_bvb">
+                    <alt>Edit</alt>
+                </image>on the bottom right end of the window, and then click the Delete icon <image href="images/delete.png" width="20" height="20" id="image_zy5_c24_bvb">
+                    <alt>Delete</alt>
+                </image>over the alarm to be deleted.</li>
+            <li>Click the Done icon <image href="images/done.png" width="20" height="20" id="image_pqm_t24_bvb">
+                    <alt>Done icon</alt>
+                </image> once deleted.</li>
+        </ul>
+    </body>
+</topic>

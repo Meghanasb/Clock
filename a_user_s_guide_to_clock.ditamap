@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>A User's Guide to Clock</title>
+    <topicref href="starting_clock.dita">
+        <topicref href="signing_in.dita"/>
+    </topicref>
+    <topicref href="features_of_clock.dita">
+        <topicref href="focus_sessions.dita">
+            <topicref href="ready_set_focus.dita"/>
+            <topicref href="daily_progress.dita"/>
+            <topicref href="tasks.dita"/>
+            <topicref href="spotify.dita"/>
+        </topicref>
+        <topicref href="timer.dita"/>
+        <topicref href="alarm.dita"/>
+        <topicref href="stopwatch.dita"/>
+        <topicref href="world_clock.dita"/>
+    </topicref>
+    <topicref href="additional_settings.dita"/>
+</map>

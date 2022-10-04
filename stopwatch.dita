@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="stopwatch">
+    <title>Stopwatch</title>
+    <body>
+        <p>Stopwatch can be used  to measure the amount of time that elapses between its activation
+            and deactivation.</p>
+        <p><b>To start stopwatch:</b><ul id="ul_itj_vg4_bvb">
+                <li>Click the Stopwatch icon <image href="images/stopwatch.png" width="30"
+                        height="30" id="image_pjn_xg4_bvb">
+                        <alt>stopwatch</alt>
+                    </image> on the left navigation toolbar.</li>
+                <li>Click the Start icon <image href="images/play.png" width="30" height="30"
+                        id="image_sfx_1h4_bvb">
+                        <alt>Start icon</alt>
+                    </image> to start the stopwatch.</li>
+                <li>Click the laps icon <image href="images/laps.png" width="30" height="30"
+                        id="image_i32_3h4_bvb">
+                        <alt>laps icon</alt>
+                    </image> to view the time laps/splits.</li>
+                <li>Click the reset button <image href="images/reset.png" width="30" height="30"
+                        id="image_w33_lh4_bvb">
+                        <alt>Reset stopwatch</alt>
+                    </image> to reset the stopwatch.</li>
+                <li>Click the expand icon <image href="images/expand.png" width="20" height="20"
+                        id="image_v3v_nh4_bvb">
+                        <alt>expand icon</alt>
+                    </image> to expand the stopwatch.</li>
+                <li>Click the Keep on Top icon <image href="images/Keep%20on%20top.png" width="25"
+                        height="25" id="image_srg_th4_bvb">
+                        <alt>Keep on top</alt>
+                    </image> to keep the stopwatch In a movable mini window over your screen.</li>
+            </ul></p>
+    </body>
+</topic>
